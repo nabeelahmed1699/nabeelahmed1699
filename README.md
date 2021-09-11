@@ -36,8 +36,12 @@ I'm a student, learning to code. Passionate about learning web development, curr
 
 ### Connect with me
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/nabeelahmed1699) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/nabeelahmed1699/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/billy.prince.980) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/nabeel_mufti/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/nabeel_mufti)
+[<img align="left" width="26px" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/nabeelahmed1699)
+[<img align="left" width="26px"  src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/nabeelahmed1699/)
+[<img  align="left" width="26px" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/billy.prince.980) [<img  align="left" width="26px" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/nabeel_mufti/) [<img align="left" width="26px"  src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/nabeel_mufti)
+<br>
+<br>
 
 ---
 
-[![Nabeel's GitHub stats](https://github-readme-stats.vercel.app/api?username=nabeelahmed1699&show_icons=true&theme=radial)](https://github.com/nabeelahmed1699/github-readme-stats)
+[![Nabeel's GitHub stats](https://github-readme-stats.vercel.app/api?username=nabeelahmed1699&show_icons=true&theme=cobalt)](https://github.com/nabeelahmed1699/github-readme-stats)
