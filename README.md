@@ -1,15 +1,20 @@
 ### Hi there 👋, My self Nabeel Ahmed
 
-- I am a frontend web developer🤓
-- I am a BS-IT student😇
-- I am currently learning everything🤣
+- I'm a frontend web developer🤓
+- I'm a BS-IT student😇
+- I'm currently learning everything🤣
 - 2021 goals to learn more and more 😀
+- 🌱 I’m currently learning JavaScript 🤓
+- 👯 I’m looking to collaborate on Open-source projects on frontend🤓
+- 🤔 I’m looking for help with Doing freelancing😵
+- ⚡ Fun fact: I also want to become a model😎
 
 ---
 
 ### BIO: <br/>
 
 I'm a student, learning to code. Passionate about learning web development, currently doing practice projects on polish my frontend skills(html/css/js).
+<br>
 
 ---
 
@@ -21,17 +26,11 @@ I'm a student, learning to code. Passionate about learning web development, curr
 <img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<br>
-<br>
+<br/>
+
 ---
 
-# Skills: HTML/CSS/Js/React .
-
-- 🔭 I’m currently working on Frontend development 🤠
-- 🌱 I’m currently learning JavaScript 🤓
-- 👯 I’m looking to collaborate on Open-source projects on frontend🤓
-- 🤔 I’m looking for help with Doing freelancing😵
-- ⚡ Fun fact: I also want to become a model😎
+### Skills: HTML/CSS/Js/React .
 
 ---
 
