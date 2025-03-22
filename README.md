@@ -1,47 +1,60 @@
-### Hi there 👋, My self Nabeel Ahmed
+### Hi there 👋, I'm Nabeel Ahmed
 
-- I'm a frontend web developer🤓
-- I'm a BS-IT student😇
-- I'm currently learning everything🤣
-- 2021 goals to learn more and more 😀
-- 🌱 I’m currently learning JavaScript 🤓
-- 👯 I’m looking to collaborate on Open-source projects on frontend🤓
-- 🤔 I’m looking for help with Doing freelancing😵
-- ⚡ Fun fact: I also want to become a model😎
-
----
-
-### BIO: <br/>
-
-I'm a student, learning to code. Passionate about learning web development, currently doing practice projects on polish my frontend skills(html/css/js).
-<br>
+- I'm a full stack software engineer with 3+ years of experience
+- Skilled in React, Next.js, Nest.js, Node.js, MongoDB, SQL, PostgreSQL, Angular, Redis
+- Passionate about learning and growing in the software development field
+- 🌱 I’m currently exploring advanced concepts in full stack development
+- 👯 I’m looking to collaborate on innovative and impactful projects
+- 🤔 I’m available for mentorship and guidance in frontend and backend development
+- ⚡ Fun fact: I love blending technology with creativity
 
 ---
 
-#### Languages and tools
+### BIO
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /> 
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<br/>
+With over 3 years of experience as a software engineer, I have honed my skills in both frontend and backend development. My journey started with a passion for building dynamic and responsive web applications, and it has evolved into a comprehensive understanding of full stack development. I am always eager to take on new challenges and expand my expertise.
 
 ---
 
-### Skills: HTML/CSS/Js/React .
+### Languages and Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vscode,html,css,js,react,nextjs,nodejs,mongodb,postgres,redis,nestjs,angular" />
+</p>
+
+---
+
+### Skills
+
+- **Frontend:** HTML, CSS, JavaScript, React, Next.js, Angular
+- **Backend:** Node.js, Nest.js
+- **Databases:** MongoDB, SQL, PostgreSQL, Redis
 
 ---
 
 ### Connect with me
 
-[<img align="left" width="26px" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/nabeelahmed1699)
-[<img align="left" width="26px"  src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/nabeelahmed1699/)
-[<img  align="left" width="26px" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/billy.prince.980) [<img  align="left" width="26px" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/nabeel_mufti/) [<img align="left" width="26px"  src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/nabeel_mufti)
-<br>
-<br>
+[<img align="left" width="26px" src="https://skillicons.dev/icons?i=github" alt="GitHub" />](https://github.com/nabeelahmed1699)
+[<img align="left" width="26px" src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />](https://www.linkedin.com/in/nabeelahmed1699/)
+[<img align="left" width="26px" src="https://skillicons.dev/icons?i=facebook" alt="Facebook" />](https://www.facebook.com/billy.prince.980)
+[<img align="left" width="26px" src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />](mailto:nabeelahmed1699@gmail.com)
+<br/>
+<br/>
 
 ---
 
-[![Nabeel's GitHub stats](https://github-readme-stats.vercel.app/api?username=nabeelahmed1699&show_icons=true&theme=cobalt)](https://github.com/nabeelahmed1699/github-readme-stats)
+### Latest Projects
+
+- 🌟 **Project Name**: Description of your project. [GitHub Link](#)
+- 🌟 **Project Name**: Description of your project. [GitHub Link](#)
+- 🌟 **Project Name**: Description of your project. [GitHub Link](#)
+
+---
+
+### Let's Connect!
+
+Feel free to reach out to me for collaboration, mentorship, or just a friendly chat about tech!
+
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=nabeelahmed1699&color=blue)
