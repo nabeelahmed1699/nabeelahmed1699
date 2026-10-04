@@ -2,14 +2,14 @@
 <h3 align="center">Senior Full-Stack Engineer — React · Next.js · React Native · Node.js/NestJS · DevOps</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2F80ED&center=true&vCenter=true&width=650&lines=Building+end-to-end+products%2C+frontend+to+cloud;React+%7C+Next.js+%7C+React+Native+%7C+NestJS;Real-time+systems+%7C+WebRTC+%7C+AI-powered+products;Founder+%40+KLATH+%E2%80%94+shipping+while+I+code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2F80ED&center=true&vCenter=true&width=650&lines=Building+end-to-end+products%2C+frontend+to+cloud;React+%7C+Next.js+%7C+React+Native+%7C+NestJS;Real-time+systems+%7C+WebRTC+%7C+AI-powered+products" alt="Typing SVG" />
 </p>
 
 <p align="center">
+  <a href="https://nabeel-ahmed.com"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/nabeelahmed1699/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:nabeelahmed1699@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://twitter.com/nabeel_mufti"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
-  <!-- TODO: add your portfolio / KLATH site link here if you have one -->
 </p>
 
 ---
@@ -18,7 +18,6 @@
 
 - 🔭 Currently building full-stack, TypeScript-first products at **AHK Solutions** — React.js, Next.js, React Native & NestJS, with real-time **WebRTC/VoIP** calling features
 - 🤖 Previously shipped the frontend for **"AI See"** — an AI-powered industrial inspection product where cameras capture live conveyor-belt footage, an AI service flags defects, and the results surface in real time on the frontend
-- 🏗️ Founder of **[KLATH](#)** — a men's unstitched fabric clothing brand where I own the *entire* stack: a fully custom Next.js storefront & admin panel (batch-tracked inventory, FIFO costing, TOTP/SSO/Passkey auth), sourcing, and business ops
 - ☁️ Comfortable owning a feature end-to-end — UI, backend, and the infrastructure it runs on (AWS, Azure, Vercel, Kubernetes, Docker, Tailscale)
 - 🤝 Building **OMC**, a corporate-services platform for UAE-based clients, architected on a Next.js + NestJS monorepo with Better Auth
 - ⚡ Deep into **agentic / vibe-coding workflows** — looped AI-agent iteration with Cursor, GitHub Copilot & Claude Code baked into how I ship
@@ -79,19 +78,13 @@ Frontend for a computer-vision inspection pipeline — conveyor-belt camera capt
 </td>
 <td width="50%">
 
-**🛍️ KLATH — Custom Commerce Platform**
-Fully custom Next.js storefront + admin panel (no Shopify) for my own clothing brand. Batch-first inventory, FIFO costing engine, and modern auth (TOTP/SSO/Passkeys) — built and run solo.
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
 **📞 Real-Time WebRTC/VoIP Calling**
 Architected real-time audio/video signaling and live call-state UI for production VoIP calling functionality at AHK Solutions.
 
 </td>
-<td width="50%">
+</tr>
+<tr>
+<td colspan="2">
 
 **🎛️ GA Universe — Low/No-Code Builder**
 Angular-based drag-and-drop app builder with a reactive, RxJS-driven canvas, real-time collaboration over WebSocket, and a modular component architecture built for scale.
